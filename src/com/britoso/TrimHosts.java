@@ -8,6 +8,7 @@ import java.util.TreeMap;
 public class TrimHosts {
 
 	/**
+	 * @author Sonal Brito
 	 * @param args
 	 */
 	public static void main(String[] args) {
